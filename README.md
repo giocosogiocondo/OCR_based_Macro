@@ -69,7 +69,9 @@ python main.py
 ---------------------------------
 project-root/
  ├─ main.py
+ 
  ├─ macro_boxes.json         # 위치/영역 설정 (자동 생성/갱신)
+ 
  └─ remainder_shots/         # OCR 원본/전처리 이미지 저장 폴더
 
 ---------------------------------
