@@ -68,6 +68,7 @@ python main.py
 6. 파일 구조
 ---------------------------------
 project-root/
+
  ├─ main.py
  
  ├─ macro_boxes.json         # 위치/영역 설정 (자동 생성/갱신)
